@@ -1,0 +1,1442 @@
+[
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.5494363727659346,
+    "objective_upper": 3.5494363727659337,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.6796255250451195,
+    "objective_upper": 3.6796255250451195,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.8098146773243053,
+    "objective_upper": 3.8098146773243045,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.9400038296034907,
+    "objective_upper": 3.9400038296034907,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.679385991666582,
+    "objective_upper": 4.679385991666582,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.758951906200118,
+    "objective_upper": 4.758951906200118,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.868169344697366,
+    "objective_upper": 4.868169344697366,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.988657131190944,
+    "objective_upper": 4.988657131190944,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.222010736798868,
+    "objective_upper": 4.222010736798868,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.041900575149979,
+    "objective_upper": 4.041900575149979,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.8640758390073593,
+    "objective_upper": 3.86407583900736,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.6880055667528615,
+    "objective_upper": 3.688005566752862,
+    "objective_gap": 4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.263437587175628,
+    "objective_upper": 4.263437587175628,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.4477420927390856,
+    "objective_upper": 3.447742092739085,
+    "objective_gap": -4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 2.681540268880565,
+    "objective_upper": 2.681540268880565,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 1.941930420478144,
+    "objective_upper": 1.9419304204781442,
+    "objective_gap": 2.220446049250313e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 1.1102230246251565e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 0.04215824237937285,
+    "objective_upper": 0.042158242379372865,
+    "objective_gap": 1.3877787807814457e-17
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -0.019266196031802636,
+    "objective_upper": -0.019266196031802674,
+    "objective_gap": -3.8163916471489756e-17
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 0.11540581592130378,
+    "objective_upper": 0.11540581592130378,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 0.39129265818427794,
+    "objective_upper": 0.39129265818427794,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.71017392395092,
+    "objective_upper": 6.71017392395092,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.026590032155301,
+    "objective_upper": 5.026590032155301,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.08249083173484,
+    "objective_upper": 4.08249083173484,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 2.842170943040401e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.724041677848817,
+    "objective_upper": 3.724073917999614,
+    "objective_gap": 3.224015079705822e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.1102230246251565e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -1.117146952881254,
+    "objective_upper": -1.1170675620959416,
+    "objective_gap": 7.939078531249422e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 8.326672684688674e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -1.607392942977472,
+    "objective_upper": -1.6073527886387637,
+    "objective_gap": 4.01543387082981e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.1102230246251565e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -2.0970825417029135,
+    "objective_upper": -2.097036501215908,
+    "objective_gap": 4.604048700551644e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 4.440892098500626e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 4.440892098500626e-14,
+    "objective_lower": -2.5870513707073033,
+    "objective_upper": -2.5870056864089706,
+    "objective_gap": 4.568429833273768e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -2.223969547868981,
+    "objective_upper": -2.223969547868981,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -2.58122848490897,
+    "objective_upper": -2.58122848490897,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -2.9370248194170663,
+    "objective_upper": -2.9370248194170663,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 8.881784197001252e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -3.292799323795629,
+    "objective_upper": -3.2927993237956286,
+    "objective_gap": 4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -3.579315081425176,
+    "objective_upper": -3.579315081425176,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.1102230246251565e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -4.150645037256301,
+    "objective_upper": -4.150645037256301,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 8.881784197001252e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -4.728925306954788,
+    "objective_upper": -4.728925306954788,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -5.315460977050616,
+    "objective_upper": -5.315460977050615,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -4.7903221209421405,
+    "objective_upper": -4.79032212094214,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -5.365422364651859,
+    "objective_upper": -5.365422364651859,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -5.924778905716732,
+    "objective_upper": -5.924778905716732,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -6.406954767272969,
+    "objective_upper": -6.406954767272969,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 1.0305652472321012,
+    "objective_upper": 1.0305652472321019,
+    "objective_gap": 6.661338147750939e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 2.842170943040401e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 2.2374709991646284,
+    "objective_upper": 2.237470999164627,
+    "objective_gap": -1.3322676295501878e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.438326183556166,
+    "objective_upper": 3.438326183556166,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 8.881784197001252e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.786388284565224,
+    "objective_upper": 4.786388284565226,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.986619202075321,
+    "objective_upper": 3.986619202075321,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 3.552713678800501e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.447987506747245,
+    "objective_upper": 5.447987506747246,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.91642997993733,
+    "objective_upper": 6.91642997993733,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 8.392839675619369,
+    "objective_upper": 8.392839675619369,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -4.77637298597141,
+    "objective_upper": -4.77637298597141,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -4.050982383788684,
+    "objective_upper": -4.050982383788685,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -3.2533967166332745,
+    "objective_upper": -3.2533967166332745,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -2.400845328203286,
+    "objective_upper": -2.4008453282032858,
+    "objective_gap": 4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.1102230246251565e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": -0.01817047271497474,
+    "objective_upper": -0.018170472714974843,
+    "objective_gap": -1.0408340855860843e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.0658141036401503e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 0.586198831510701,
+    "objective_upper": 0.5861988315107014,
+    "objective_gap": 4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 0.9712760074598106,
+    "objective_upper": 0.9712760074598104,
+    "objective_gap": -2.220446049250313e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 1.3861139136579004,
+    "objective_upper": 1.3861139136579004,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.3731654355731404,
+    "objective_upper": 3.37316543557314,
+    "objective_gap": -4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.6714352152644665,
+    "objective_upper": 4.671435215264467,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 2.842170943040401e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.025029177858346,
+    "objective_upper": 6.025029253910292,
+    "objective_gap": 7.605194607407384e-08
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 6.661338147750939e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 7.462537500361338,
+    "objective_upper": 7.4625375003613375,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 3.913030706791285,
+    "objective_upper": 3.9130307067912846,
+    "objective_gap": -4.440892098500626e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.747434484775672,
+    "objective_upper": 4.747434484775672,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.220446049250313e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.593670337924003,
+    "objective_upper": 5.593670337924003,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 2.842170943040401e-14,
+      "inequality": 5.828670879282072e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.452152929814401,
+    "objective_upper": 6.452152929814402,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 2.842170943040401e-14,
+      "inequality": 2.3869795029440866e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.584024874514555,
+    "objective_upper": 6.584024874514556,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.0658141036401503e-14,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 7.729985802385903,
+    "objective_upper": 7.729985802385903,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 1.0658141036401503e-14,
+    "objective_lower": 9.176189631812724,
+    "objective_upper": 9.176221670261002,
+    "objective_gap": 3.203844827837088e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-14,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 1.7763568394002505e-15,
+    "objective_lower": 10.072066962030163,
+    "objective_upper": 10.072089634968926,
+    "objective_gap": 2.2672938762013928e-05
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 4.440892098500626e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.642334460664506,
+    "objective_upper": 6.642334460664505,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.716371608111927,
+    "objective_upper": 5.716371608111927,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.3322676295501878e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.929799859081916,
+    "objective_upper": 5.929799859081917,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.167285951914861,
+    "objective_upper": 6.16728595191486,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.432181986014118,
+    "objective_upper": 11.432181986014117,
+    "objective_gap": -1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 12.172303280678042,
+    "objective_upper": 12.172303280678042,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 12.928370905744952,
+    "objective_upper": 12.928370905744954,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 13.73791013921534,
+    "objective_upper": 13.73791013921534,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 10.4440573575008,
+    "objective_upper": 10.4440573575008,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.220446049250313e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 10.650599629595128,
+    "objective_upper": 10.650599629595128,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 2.7755575615628914e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 10.864469063506927,
+    "objective_upper": 10.864469063506926,
+    "objective_gap": -1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.107337260673031,
+    "objective_upper": 11.107337260673033,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 3.552713678800501e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.659214556872898,
+    "objective_upper": 11.659214556872898,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.482872239278642,
+    "objective_upper": 11.482872239278642,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 4.440892098500626e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.30895479196716,
+    "objective_upper": 11.308954791967162,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 7.105427357601002e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.137641613038468,
+    "objective_upper": 11.137641613038472,
+    "objective_gap": 3.552713678800501e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 12.601089896022613,
+    "objective_upper": 12.601089896022613,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.803383557664622,
+    "objective_upper": 11.80338355766462,
+    "objective_gap": -1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 5.329070518200751e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 11.001255134475931,
+    "objective_upper": 11.001255134475931,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 1.7763568394002505e-15,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 10.19170941306183,
+    "objective_upper": 10.191709413061831,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 8.281342042401244,
+    "objective_upper": 8.281342042401246,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 7.385421274632482,
+    "objective_upper": 7.385421274632481,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.8027084037215815,
+    "objective_upper": 6.802708403721583,
+    "objective_gap": 1.7763568394002505e-15
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 6.222491242553638,
+    "objective_upper": 6.222491242553639,
+    "objective_gap": 8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.600080464354132,
+    "objective_upper": 5.600080464354131,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 5.551115123125783e-17,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 5.165983822518744,
+    "objective_upper": 5.1659838225187436,
+    "objective_gap": -8.881784197001252e-16
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 4.440892098500626e-15,
+      "inequality": 8.881784197001252e-16,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": 0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.73653766920155,
+    "objective_upper": 4.73653766920155,
+    "objective_gap": 0.0
+  },
+  {
+    "status": "optimal",
+    "solver_status": 0,
+    "message": null,
+    "constraint_residuals": {
+      "equality": 3.552713678800501e-15,
+      "inequality": 0.0,
+      "bounds": 0.0
+    },
+    "simultaneous_charge_discharge_kW": -0.0,
+    "nonanticipativity_error": 0.0,
+    "objective_lower": 4.312361209754755,
+    "objective_upper": 4.312361209754755,
+    "objective_gap": 0.0
+  }
+]

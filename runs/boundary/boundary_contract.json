@@ -1,0 +1,60 @@
+{
+  "status": "EXPLORATORY_POSTPRIMARY; designed after inspecting the completed primary results",
+  "created_utc": "2026-09-06T05:23:15.009924+00:00",
+  "design_trigger": {
+    "primary_episodes": 384,
+    "primary_trip_episodes": 0,
+    "primary_max_Tj_C": 90.7049439269532,
+    "primary_summary_sha256": "1af87a223644ba97e0055bbb5e18e20aeb735d60e3754e7b66d7e86fc012109f"
+  },
+  "dates": [
+    "2017-01-01",
+    "2017-04-01",
+    "2017-07-01",
+    "2017-10-01"
+  ],
+  "modes": [
+    "economic",
+    "rainflow",
+    "scalar",
+    "waveform",
+    "full_mean",
+    "full"
+  ],
+  "regime": "heatwave_dr",
+  "seed": 41,
+  "external_plant_cooling": [
+    1.0,
+    1.2,
+    1.4,
+    1.6,
+    1.8,
+    2.0
+  ],
+  "episodes": 144,
+  "workers": 3,
+  "controller_cooling": 1.0,
+  "other_parameters": "All frozen main configuration and implementations retained",
+  "perturbation": "Purely synthetic positive multiplier on external-plant Rsa, interpretable only as an assumed fan/cooling-resistance perturbation; no measured fan failure or physical failure threshold is inferred.",
+  "failure_policy": "Retain thermal trips, solver-failure zero-action fallbacks, cut-limit returns, terminal-service errors, DR shortfall, raw trajectories and solver checks. No retuning or deletion of unfavorable cells.",
+  "cost_definitions": {
+    "wear_adjusted_cost": "operating_cost_USD + DR_cost_USD + wear_cost_USD",
+    "energy_adjusted_cost": "wear_adjusted_cost + terminal_correction_USD; correction does not restore unmet terminal service"
+  },
+  "source_hashes": {
+    "mpc.py": "d570cc101f10789120f5e2a8faf428fac1363896b2377ebfadc17273498cb8df",
+    "mpc_checks.py": "952da0953b519a20bbd651b223b4cb003ad07a3ad978912d48a9e18650bbda58",
+    "observer.py": "5561a08883f343bbea84382e10268e1e5ffa47ce3497aa37d2d98d7a3b6b6a75",
+    "observer_benchmark.py": "a6e15a9ee6685b62ce3c68103ba5503800b38c4d10e4763d6fab5ed7f2fcb7cb",
+    "observer_checks.py": "1b6405c711545c29a35f25d763d679730c66a315027d2d2c6b98dc75940b6439",
+    "plant.py": "a6b433ae3ae7b18bc221c101a0370ecc330aeeb0bd39022317433d0d42d41be1",
+    "plant_checks.py": "ee1e359e1a40fadcd69d3e963c7d437038ec55a22676385da66a9a9d8266e3f2",
+    "prepare_public_data.py": "6aaf1d6c929e0446d62f7c7698e0b70a83ce801163ea328ff14d5bc1d54b31a2",
+    "rainflow_convex.py": "c66e9fefe1684a028f1178a6c17b018527fde7f28f017cb9d22717f841dba5eb",
+    "study.py": "d82a6796cf156e69b8931a73c96d9535261395b19617fdbdc444ea797ef0cdc9",
+    "config.json": "e07e2c14cf5290936ecea737bdf43fae38db63eb5170f1b3bf75e11549a8c6e3",
+    "data\\source_manifest.json": "b38053b7da7ace633e07688b0f7ab43cd14f4ee4b33e91231250bdd3853fff0b",
+    "data\\household4_hourly_2016_2017.csv": "b38db1cf629fda46e4dae2e59460addded9f0cb2b1196af61b7069d115ecb835"
+  },
+  "boundary_script_sha256": "035cd3b11b0b2ce5f63e4cf3f87ad44685de00c690c65da368e63218db39ee6f"
+}

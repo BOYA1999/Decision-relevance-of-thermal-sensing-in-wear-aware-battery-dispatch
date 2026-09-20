@@ -1,0 +1,31 @@
+{
+  "date": "2017-11-01",
+  "mode": "infrared",
+  "regime": "ordinary",
+  "seed": 73,
+  "overrides": {},
+  "operating_cost_USD": 171.98325434943172,
+  "DR_cost_USD": 0.0,
+  "battery_wear": 0.0001277108601740064,
+  "converter_wear": 1.360355525630518e-07,
+  "wear_cost_USD": 6.389624075277212,
+  "terminal_correction_USD": 0.0,
+  "total_cost_USD": 178.37287842470894,
+  "energy_adjusted_cost_USD": 178.37287842470894,
+  "terminal_SOC": 0.5,
+  "terminal_SOC_error": 0.0,
+  "trip": 0,
+  "thermal_exceedance_hours": 0.0,
+  "DR_shortfall_kWh": 0.0,
+  "Tj_RMSE_C": 0.5595247744082111,
+  "Tj_peak_C": 54.04649855842835,
+  "FEC": 1.2318979606624427,
+  "solver_p95_seconds": 0.042347325004811864,
+  "max_rainflow_gap_USD": 6.702105928724222e-05,
+  "solver_status_counts": {
+    "optimal": 96
+  },
+  "numerical_gate": "PASS",
+  "terminal_service_met": true,
+  "elapsed_seconds": 1.9183902000077069
+}

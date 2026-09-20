@@ -1,0 +1,33 @@
+{
+  "date": "2017-01-01",
+  "mode": "waveform",
+  "regime": "heatwave_dr",
+  "seed": 41,
+  "overrides": {
+    "rho": 0.0
+  },
+  "operating_cost_USD": 247.7427319922771,
+  "DR_cost_USD": 0.0014728148061884383,
+  "battery_wear": 0.0001322451202441152,
+  "converter_wear": 9.438777978550924e-08,
+  "wear_cost_USD": 6.615087645599325,
+  "terminal_correction_USD": 0.0,
+  "total_cost_USD": 254.3592924526826,
+  "energy_adjusted_cost_USD": 254.3592924526826,
+  "terminal_SOC": 0.5,
+  "terminal_SOC_error": 0.0,
+  "trip": 0,
+  "thermal_exceedance_hours": 0.0,
+  "DR_shortfall_kWh": 0.0007364074030942191,
+  "Tj_RMSE_C": 0.18606479507929394,
+  "Tj_peak_C": 58.715447804257714,
+  "FEC": 1.2326697823306232,
+  "solver_p95_seconds": 0.06314080000447575,
+  "max_rainflow_gap_USD": 9.248880003598359e-05,
+  "solver_status_counts": {
+    "optimal": 96
+  },
+  "numerical_gate": "PASS",
+  "terminal_service_met": true,
+  "elapsed_seconds": 2.1193760000169277
+}
