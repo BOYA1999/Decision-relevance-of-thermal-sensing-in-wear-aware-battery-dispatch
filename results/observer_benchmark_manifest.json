@@ -1,0 +1,49 @@
+{
+  "claim_boundary": "Illustrative synthetic sensor-model consistency under a shared deterministic excitation, not independent physical validation or feasible dispatch.",
+  "interval_seconds": 900,
+  "observation_steps": 96,
+  "completed_intervals": 95,
+  "timing": "Observe state at t=0,...,95. State at t>0 follows the completed interval t-1. No current or future action/ambient/ripple enters observer.update.",
+  "power_kW": "100*sin(2*pi*t/24)",
+  "ambient_degC": "25+8*sin(2*pi*t/96)",
+  "ripple": "0.25+0.45*(0.5+0.5*sin(2*pi*t/24))",
+  "initial_state_degC": [
+    25,
+    25
+  ],
+  "cooling": [
+    1.0,
+    1.2
+  ],
+  "image_bias_degC": [
+    0.0,
+    -2.0
+  ],
+  "seeds": [
+    41,
+    73,
+    109
+  ],
+  "modes": [
+    "scalar",
+    "waveform",
+    "infrared",
+    "full",
+    "full_mean",
+    "oracle"
+  ],
+  "protection": false,
+  "SOC_model": "Not used; identification excitation only.",
+  "metric_definition": "RMSE and MAE of current junction-temperature estimate; underestimate p99 is linear empirical 0.99 quantile of max(true-estimate,0). Summary pools 288 observations over three seeds per condition and mode; by_seed reports 96 each. No independence or population inference is claimed.",
+  "quality_checks": {
+    "shared_physical_trajectory_all_modes_seeds_biases": true,
+    "oracle_exact": true,
+    "non_image_modes_invariant_to_image_bias": true,
+    "all_numeric_outputs_finite": true
+  },
+  "source_sha256": {
+    "observer.py": "5561a08883f343bbea84382e10268e1e5ffa47ce3497aa37d2d98d7a3b6b6a75",
+    "plant.py": "a6b433ae3ae7b18bc221c101a0370ecc330aeeb0bd39022317433d0d42d41be1",
+    "observer_benchmark.py": "a6e15a9ee6685b62ce3c68103ba5503800b38c4d10e4763d6fab5ed7f2fcb7cb"
+  }
+}

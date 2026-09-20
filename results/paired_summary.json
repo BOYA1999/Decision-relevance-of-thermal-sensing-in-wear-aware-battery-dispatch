@@ -1,0 +1,215 @@
+{
+  "delta_direction": "full minus comparator; positive means full costs more",
+  "primary_cost": "total_cost_USD = realized operating + DR penalty + single-count battery/converter wear",
+  "unit": "USD per evaluated day",
+  "seed_handling": "Average the two seeds within each date/regime/mode before pairing.",
+  "bootstrap": {
+    "method": "paired percentile bootstrap of 12 date-level differences separately within each regime",
+    "replicates": 10000,
+    "seed": 20260906,
+    "ci_percentiles": [
+      2.5,
+      97.5
+    ]
+  },
+  "limits": [
+    "The 12 monthly first-valid dates are a convenience sample, not independent annual realizations.",
+    "No p-values or universal significance claims are produced.",
+    "Near-zero effects remain subject to solver and physical approximation resolution.",
+    "Oracle recovery runs do not overwrite the original main outputs or enter these four comparisons."
+  ],
+  "comparisons": [
+    {
+      "regime": "heatwave_dr",
+      "comparator": "scalar",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 0.010734034395755238,
+      "median_delta_USD_per_day": 0.009641278115864793,
+      "minimum_delta_USD_per_day": -0.005058843419618597,
+      "maximum_delta_USD_per_day": 0.04210420305134832,
+      "mean_delta_date_bootstrap_95CI": [
+        0.004092015484650445,
+        0.01844503076393451
+      ],
+      "full_lower_cost_dates_raw_precision": 3,
+      "full_higher_cost_dates_raw_precision": 9,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -0.010734034395755238,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.01844503076393451,
+        -0.004092015484650445
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "heatwave_dr",
+      "comparator": "waveform",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 0.0005639665189102286,
+      "median_delta_USD_per_day": 0.0,
+      "minimum_delta_USD_per_day": -1.460294961219688e-05,
+      "maximum_delta_USD_per_day": 0.005896879091420004,
+      "mean_delta_date_bootstrap_95CI": [
+        1.5932727806718578e-05,
+        0.001567770579479293
+      ],
+      "full_lower_cost_dates_raw_precision": 2,
+      "full_higher_cost_dates_raw_precision": 5,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -0.0005639665189102286,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.001567770579479293,
+        -1.5932727806718578e-05
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "heatwave_dr",
+      "comparator": "full_mean",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": -0.0004431958345053333,
+      "median_delta_USD_per_day": 0.0,
+      "minimum_delta_USD_per_day": -0.00603097107606132,
+      "maximum_delta_USD_per_day": 0.0005251274920681226,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.001493784885278145,
+        0.00014282565486284135
+      ],
+      "full_lower_cost_dates_raw_precision": 5,
+      "full_higher_cost_dates_raw_precision": 2,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": 0.0004431958345053333,
+      "positive_mean_saving_point_estimate": true,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0004431958345053333,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.00014282565486284135,
+        0.001493784885278145
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "heatwave_dr",
+      "comparator": "rainflow",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 0.05509337987087289,
+      "median_delta_USD_per_day": -0.012112698589159976,
+      "minimum_delta_USD_per_day": -1.012991369451466,
+      "maximum_delta_USD_per_day": 3.220189518500092,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.41824899759330303,
+        0.7186157410447024
+      ],
+      "full_lower_cost_dates_raw_precision": 7,
+      "full_higher_cost_dates_raw_precision": 5,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -0.05509337987087289,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.7186157410447024,
+        0.41824899759330303
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "ordinary",
+      "comparator": "scalar",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 0.021236075813681577,
+      "median_delta_USD_per_day": 0.00781897534366438,
+      "minimum_delta_USD_per_day": -0.10536831631139876,
+      "maximum_delta_USD_per_day": 0.2561637715242071,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.01606132303730671,
+        0.0722072647163557
+      ],
+      "full_lower_cost_dates_raw_precision": 4,
+      "full_higher_cost_dates_raw_precision": 8,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -0.021236075813681577,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.0722072647163557,
+        0.01606132303730671
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "ordinary",
+      "comparator": "waveform",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 1.4971712219609874e-06,
+      "median_delta_USD_per_day": 0.0,
+      "minimum_delta_USD_per_day": -0.001072548190098388,
+      "maximum_delta_USD_per_day": 0.0005470734248262943,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.00022381263233543317,
+        0.00018220713651118103
+      ],
+      "full_lower_cost_dates_raw_precision": 1,
+      "full_higher_cost_dates_raw_precision": 4,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -1.4971712219609874e-06,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.00018220713651118103,
+        0.00022381263233543317
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "ordinary",
+      "comparator": "full_mean",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": -4.76924234202869e-05,
+      "median_delta_USD_per_day": 0.0,
+      "minimum_delta_USD_per_day": -0.0011155304378753783,
+      "maximum_delta_USD_per_day": 0.0005300684385503018,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.0002778413361106402,
+        0.00013262923478289204
+      ],
+      "full_lower_cost_dates_raw_precision": 1,
+      "full_higher_cost_dates_raw_precision": 4,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": 4.76924234202869e-05,
+      "positive_mean_saving_point_estimate": true,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 4.76924234202869e-05,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.00013262923478289204,
+        0.0002778413361106402
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    },
+    {
+      "regime": "ordinary",
+      "comparator": "rainflow",
+      "n_dates": 12,
+      "mean_delta_USD_per_day": 0.13467950653117475,
+      "median_delta_USD_per_day": -0.004021163931474447,
+      "minimum_delta_USD_per_day": -1.0165165636034375,
+      "maximum_delta_USD_per_day": 3.2084762730062835,
+      "mean_delta_date_bootstrap_95CI": [
+        -0.33860936459491575,
+        0.781741095439695
+      ],
+      "full_lower_cost_dates_raw_precision": 7,
+      "full_higher_cost_dates_raw_precision": 5,
+      "all_paired_numerical_gates_pass": true,
+      "mean_sensing_saving_USD_per_day": -0.13467950653117475,
+      "positive_mean_saving_point_estimate": false,
+      "maximum_nonnegative_mean_sensing_budget_USD_per_evaluated_day": 0.0,
+      "mean_saving_date_bootstrap_95CI": [
+        -0.781741095439695,
+        0.33860936459491575
+      ],
+      "budget_scope": "Point estimate conditional on the sampled days and synthetic assumptions; excludes hardware costs and is not an annual return or guaranteed budget."
+    }
+  ]
+}

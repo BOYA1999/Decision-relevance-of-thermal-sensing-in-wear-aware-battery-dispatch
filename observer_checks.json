@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "checks": {
+    "same_seed_noise_pairing_and_consumption": true,
+    "oracle_exact_and_spatial_observation_rank": true,
+    "full_mean_uses_same_16_pixels_and_variance_divided_by_16": true,
+    "scalar_hidden_junction_invariance_and_first_step_no_prediction": true,
+    "interface_has_only_current_sensor_truth_and_past_drivers": true,
+    "past_ripple_access_and_no_current_gate": true,
+    "common_bias_applies_only_to_the_synthetic_image": true,
+    "finite_positive_covariance_under_cooling_mismatch_160_steps": true
+  },
+  "minimum_covariance_eigenvalue_by_mode": {
+    "scalar": 0.20164501403956211,
+    "waveform": 0.20164501403956211,
+    "infrared": 0.019461035574253497,
+    "full": 0.019461035574253497,
+    "full_mean": 0.01965778631309285,
+    "oracle": 1e-12
+  },
+  "claim_boundary": "Software and synthetic-observation checks only; no physical sensor calibration or empirical accuracy validation."
+}

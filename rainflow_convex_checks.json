@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "generic_finite_difference_paths": 100,
+  "random_supporting_hyperplane_pairs": 1000,
+  "tied_supporting_hyperplane_pairs": 1000,
+  "worst_finite_difference_absolute_error": 4.699765967022818e-13,
+  "maximum_random_support_excess": -2.699399013849018e-06,
+  "maximum_tied_support_excess": -2.840816686508588e-07,
+  "exhaustive_five_point_tied_patterns": 243,
+  "local_tied_perturbations": 2430,
+  "maximum_local_tied_support_excess": -1.1980434005964824e-17,
+  "support_tolerance": 1e-11,
+  "scope": "Convex depth-only battery wear with full-cycle weight 1 and residue-half-cycle weight 0.5; not converter mean-temperature-weighted wear"
+}

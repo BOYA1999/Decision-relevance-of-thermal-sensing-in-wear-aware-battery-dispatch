@@ -1,0 +1,25 @@
+setting,comparator,regime,n_dates,mean_delta_USD_per_day,median_delta_USD_per_day,minimum_delta_USD_per_day,maximum_delta_USD_per_day,full_lower_cost_dates_raw_precision,interpretation
+IR_bias_minus_2,scalar,heatwave_dr,4,0.01226492565465942,0.005667652272844048,-0.005058843419618597,0.04278324149256818,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+IR_bias_minus_2,waveform,heatwave_dr,4,0.0016662796935341673,5.156727288380125e-05,-1.3933304270796754e-05,0.006575917532639863,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+IR_bias_minus_2,full_mean,heatwave_dr,4,0.0020686675369911978,-1.1728176350089825e-06,-1.4261177878616138e-05,0.008291276961113425,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_100,scalar,heatwave_dr,4,-0.009376049107666706,-0.010490848978576772,-0.011484602778786268,-0.005037895694727013,4,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_100,waveform,heatwave_dr,4,-0.01221927127360023,-0.001365795278854165,-0.04614549453669259,0.0,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_100,full_mean,heatwave_dr,4,-0.007857314142828253,0.0,-0.03165551990082904,0.0002262633295160299,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_400,scalar,heatwave_dr,4,-0.011640917627839364,-0.008634911948186996,-0.1005756328371703,0.07128178622218684,3,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_400,waveform,heatwave_dr,4,0.00015738746485283173,6.423959893808728e-06,-2.213886366320139e-05,0.0006388408032869108,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+battery_400,full_mean,heatwave_dr,4,-9.5395180442992e-05,-1.414064165317086e-06,-0.0003788600687002486,1.0747525891474652e-07,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+cooling_120,scalar,heatwave_dr,4,0.008110328180859994,0.005991140546792506,-0.005008365589276309,0.02546739721913127,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+cooling_120,waveform,heatwave_dr,4,0.0010478106766590722,5.243193943016422e-06,-4.7290736104876885e-08,0.004180803609486361,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+cooling_120,full_mean,heatwave_dr,4,-3.07348240080052e-05,6.513176775690965e-09,-0.000124560779010352,1.6084566247798193e-06,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_six,scalar,heatwave_dr,4,0.012278431296747772,0.0060224525585625965,-0.005058843419618597,0.04212766348948449,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_six,waveform,heatwave_dr,4,0.001477442493081682,8.057804439687288e-06,-3.2247279726504985e-06,0.005896879091420004,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_six,full_mean,heatwave_dr,4,-0.0015190682080484241,-2.2650878066188262e-05,-0.00603097107606132,0.0,3,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_zero,scalar,heatwave_dr,4,0.012178350253669562,0.005834020691474262,-0.005058843419618597,0.04210420305134832,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_zero,waveform,heatwave_dr,4,0.001477579424342873,8.057804439687288e-06,-2.6770029278866403e-06,0.005896879091420004,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+margin_zero,full_mean,heatwave_dr,4,-0.0015183183766714625,-2.1151215312265048e-05,-0.00603097107606132,0.0,3,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_double,scalar,heatwave_dr,4,-0.011470811062545438,-0.005238348858313202,-0.038078051223131126,0.0026715046895757766,3,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_double,waveform,heatwave_dr,4,0.002017491241699698,0.0004070388455614804,0.0,0.007255887275675832,0,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_double,full_mean,heatwave_dr,4,0.00025175892722228976,0.0,-1.1367042640486602e-07,0.001007149379315564,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_zero,scalar,heatwave_dr,4,0.0049524374060118115,0.005090333929115731,-0.0036731366957667433,0.013302218461582527,1,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_zero,waveform,heatwave_dr,4,-0.001733541108485781,-1.3624126509625967e-05,-0.006906916180923872,0.0,2,Two seeds averaged per date; descriptive n=4; no significance claim.
+radius_zero,full_mean,heatwave_dr,4,0.0002228469563168578,9.552623080111289e-06,-2.5399109972568112e-05,0.0008976816890797767,1,Two seeds averaged per date; descriptive n=4; no significance claim.

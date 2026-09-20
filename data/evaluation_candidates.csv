@@ -1,0 +1,17 @@
+candidate,month_or_quarter,start_date_utc,end_date_utc,days
+monthly_first_valid_day,1,2017-01-01,2017-01-01,1
+monthly_first_valid_day,2,2017-02-01,2017-02-01,1
+monthly_first_valid_day,3,2017-03-01,2017-03-01,1
+monthly_first_valid_day,4,2017-04-01,2017-04-01,1
+monthly_first_valid_day,5,2017-05-01,2017-05-01,1
+monthly_first_valid_day,6,2017-06-01,2017-06-01,1
+monthly_first_valid_day,7,2017-07-01,2017-07-01,1
+monthly_first_valid_day,8,2017-08-01,2017-08-01,1
+monthly_first_valid_day,9,2017-09-01,2017-09-01,1
+monthly_first_valid_day,10,2017-10-01,2017-10-01,1
+monthly_first_valid_day,11,2017-11-01,2017-11-01,1
+monthly_first_valid_day,12,2017-12-01,2017-12-01,1
+quarter_first_valid_seven_day_block,1,2017-01-12,2017-01-18,7
+quarter_first_valid_seven_day_block,2,2017-04-01,2017-04-07,7
+quarter_first_valid_seven_day_block,3,2017-07-01,2017-07-07,7
+quarter_first_valid_seven_day_block,4,2017-10-01,2017-10-07,7

@@ -1,0 +1,28 @@
+{
+  "package_title": "Household Data",
+  "package_version": "2020-04-15",
+  "landing_page": "https://data.open-power-system-data.org/household_data/2020-04-15/",
+  "source_organization": "Open Power System Data; primary data: CoSSMic",
+  "licenses": [
+    {
+      "id": "CC-BY-4.0",
+      "version": "4.0",
+      "name": "Creative Commons Attribution-International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "files": [
+    {
+      "filename": "household_data_60min_singleindex.csv",
+      "url": "https://data.open-power-system-data.org/household_data/2020-04-15/household_data_60min_singleindex.csv",
+      "bytes": 15654559,
+      "sha256": "15956440b27465686eae2abf5895cbc3dab80f934a891bcb2f4f944428e97d60"
+    }
+  ],
+  "source_site": "DE_KN_residential4, one urban residential building in Konstanz, Germany",
+  "source_resolution": "60-minute sampled cumulative energy in kWh",
+  "derived_input": "data/household4_hourly_2016_2017.csv",
+  "transformation": "Adjacent cumulative counter difference and electrical-balance proxy; quality flags retained.",
+  "interpretation": "Stylized electrical input for simulation; not a verified gross-demand channel or health record.",
+  "note": "No contact fields or author-controlled metadata are included."
+}

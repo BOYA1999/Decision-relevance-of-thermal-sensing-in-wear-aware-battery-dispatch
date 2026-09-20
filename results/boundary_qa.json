@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "episodes_checked": 144,
+  "episode_files_checked": 576,
+  "Tj_samples_per_episode": 86401,
+  "SOC_samples_per_episode": 97,
+  "aggregate_rows_checked": 36,
+  "baseline_primary_replay_episodes": 24,
+  "frozen_hash_mismatches": 0,
+  "trip_episodes": 0,
+  "solver_fallback_intervals": 0,
+  "terminal_service_failed_episodes": 0,
+  "maximum_Tj_C": 100.40548056802002,
+  "scope": "Exploratory post-primary synthetic perturbation, not physical threshold or safety validation."
+}

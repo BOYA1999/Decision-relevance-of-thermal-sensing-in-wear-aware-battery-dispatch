@@ -1,0 +1,31 @@
+{
+  "frozen_UTC": "2026-09-20T00:00:00Z",
+  "main_episodes": 384,
+  "hashes": {
+    "mpc.py": "d570cc101f10789120f5e2a8faf428fac1363896b2377ebfadc17273498cb8df",
+    "mpc_checks.py": "952da0953b519a20bbd651b223b4cb003ad07a3ad978912d48a9e18650bbda58",
+    "observer.py": "5561a08883f343bbea84382e10268e1e5ffa47ce3497aa37d2d98d7a3b6b6a75",
+    "observer_benchmark.py": "a6e15a9ee6685b62ce3c68103ba5503800b38c4d10e4763d6fab5ed7f2fcb7cb",
+    "observer_checks.py": "1b6405c711545c29a35f25d763d679730c66a315027d2d2c6b98dc75940b6439",
+    "plant.py": "a6b433ae3ae7b18bc221c101a0370ecc330aeeb0bd39022317433d0d42d41be1",
+    "plant_checks.py": "ee1e359e1a40fadcd69d3e963c7d437038ec55a22676385da66a9a9d8266e3f2",
+    "prepare_public_data.py": "6aaf1d6c929e0446d62f7c7698e0b70a83ce801163ea328ff14d5bc1d54b31a2",
+    "rainflow_convex.py": "c66e9fefe1684a028f1178a6c17b018527fde7f28f017cb9d22717f841dba5eb",
+    "study.py": "d82a6796cf156e69b8931a73c96d9535261395b19617fdbdc444ea797ef0cdc9",
+    "config.json": "e07e2c14cf5290936ecea737bdf43fae38db63eb5170f1b3bf75e11549a8c6e3",
+    "data\\source_manifest.json": "1af42548d2e5117c062fc2d2f8df482703ef944e3e7856def17a977f7f53fd41",
+    "data\\household4_hourly_2016_2017.csv": "b38db1cf629fda46e4dae2e59460addded9f0cb2b1196af61b7069d115ecb835"
+  },
+  "environment": {
+    "python": "3.12.0",
+    "platform": "Windows",
+    "packages": {
+      "numpy": "1.26.4",
+      "scipy": "1.17.1",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.8.0",
+      "matplotlib": "3.10.8",
+      "threadpoolctl": "3.6.0"
+    }
+  }
+}

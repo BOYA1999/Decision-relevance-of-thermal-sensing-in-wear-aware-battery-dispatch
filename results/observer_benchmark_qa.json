@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "perstep_rows": 6912,
+  "pooled_summary_rows": 24,
+  "seed_summary_rows": 72,
+  "saved_metric_recalculation": "all 96 reported rows agree within 1e-9 degC",
+  "chronology": "both cooling trajectories independently regenerated from previous interval inputs",
+  "scope": "synthetic consistency only"
+}

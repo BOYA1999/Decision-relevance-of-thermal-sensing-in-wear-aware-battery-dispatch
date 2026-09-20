@@ -1,0 +1,70 @@
+{
+  "status": "Frozen before executing these robustness runs",
+  "dates": [
+    "2017-01-01",
+    "2017-04-01",
+    "2017-07-01",
+    "2017-10-01"
+  ],
+  "modes": [
+    "scalar",
+    "waveform",
+    "full_mean",
+    "full"
+  ],
+  "seeds": [
+    41,
+    73
+  ],
+  "regime": "heatwave_dr",
+  "settings": {
+    "battery_100": {
+      "energy_capacity": 100.0,
+      "battery_capex": 25000.0
+    },
+    "battery_400": {
+      "energy_capacity": 400.0,
+      "battery_capex": 100000.0
+    },
+    "cooling_120": {
+      "cooling": 1.2
+    },
+    "IR_bias_minus_2": {
+      "ir_bias": -2.0
+    },
+    "radius_zero": {
+      "rho": 0.0
+    },
+    "radius_double": {
+      "rho": 0.09088954957539638
+    },
+    "margin_zero": {
+      "margin": 0.0
+    },
+    "margin_six": {
+      "margin": 6.0
+    }
+  },
+  "precision_check": {
+    "dates": [
+      "2017-01-01",
+      "2017-04-01",
+      "2017-07-01",
+      "2017-10-01"
+    ],
+    "modes": [
+      "scalar",
+      "waveform",
+      "full_mean",
+      "full"
+    ],
+    "regimes": [
+      "ordinary",
+      "heatwave_dr"
+    ],
+    "seed": 41,
+    "rainflow_tolerance": 1e-06,
+    "max_cuts": 80
+  },
+  "interpretation": "Prespecified parameter cells; no external site validation"
+}

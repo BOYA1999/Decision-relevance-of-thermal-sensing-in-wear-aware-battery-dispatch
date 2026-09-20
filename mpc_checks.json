@@ -1,0 +1,25 @@
+{
+  "flat_price_no_arbitrage": 12.06,
+  "nominal": {
+    "status": "optimal",
+    "iterations": 6,
+    "rainflow_gap": 0.0036972256143597004,
+    "solve_seconds": 0.032758900022599846,
+    "objective_gap": 0.003697225614361699,
+    "constraint_residuals": {
+      "equality": 1.4210854715202004e-14,
+      "inequality": 3.552713678800501e-15,
+      "bounds": 0.0
+    }
+  },
+  "nominal_reference_1s_peak": 73.60633641285823,
+  "binding_thermal_constraint": {
+    "predicted_limit": 102,
+    "reference_1s_peak": 101.46569771150875
+  },
+  "rho_zero_weighted_expected_cost": 12.96,
+  "identical_support_matches_single_scenario": 12.060000000000002,
+  "unconverged_cut_limit_is_exposed": 2.968279191551658,
+  "infeasible_hot_initial_state_is_exposed": 2,
+  "status": "PASS"
+}

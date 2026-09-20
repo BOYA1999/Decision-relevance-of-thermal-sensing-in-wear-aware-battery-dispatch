@@ -1,0 +1,48 @@
+{
+  "ode_error_cooling_0.7": 1.6828920479383669e-09,
+  "ode_error_cooling_1.0": 1.8914363408839563e-09,
+  "ode_error_cooling_1.4": 1.7654286921242601e-09,
+  "status": "PASS",
+  "nested_cycles": [
+    [
+      1.0,
+      1.5,
+      1.0,
+      2,
+      3
+    ],
+    [
+      3.0,
+      1.5,
+      0.5,
+      0,
+      1
+    ],
+    [
+      3.0,
+      1.5,
+      0.5,
+      1,
+      4
+    ]
+  ],
+  "basic_cycles": [
+    [
+      1.0,
+      0.5,
+      0.5,
+      0,
+      1
+    ],
+    [
+      1.0,
+      0.5,
+      0.5,
+      1,
+      2
+    ]
+  ],
+  "trip_active_seconds": 1.0,
+  "trip_peak": 119.45656860147936,
+  "limitations": "Trip timing is evaluated on the dt grid; synthetic life-consumption coefficients are uncalibrated"
+}
